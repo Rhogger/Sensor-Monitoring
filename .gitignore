@@ -1,0 +1,35 @@
+# Arquivos temporários gerados pelo Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+
+# Arquivos de build gerados
+bin/
+obj/
+
+# Dependências do NuGet
+packages/
+
+# Arquivos de projeto
+*.csproj.user
+*.csproj.vspscc
+
+# Arquivos de cache e logs
+*.log
+*.vspscc
+*.vsmdi
+TestResults/
+
+# Diretórios de output do Visual Studio
+_ReSharper*/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Arquivos de análise
+*.sln.docstates
+
+# Pasta de ferramentas do Visual Studio Code
+.vscode/
